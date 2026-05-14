@@ -1,5 +1,7 @@
 # subscription-tracker
 deployed link : https://swetha-subscription-tracker.streamlit.app/
+
+
 A Python web app built with Streamlit that helps users track their monthly subscriptions, calculate total spending, and identify wasted money on unused services.
 📋 Features
 
@@ -17,4 +19,8 @@ Instant alerts showing which subscriptions to cancel
 
 
 🛠️ Tech Stack
-ToolPurposePythonProgramming languageStreamlitWeb framework & UIPandasData handlingshare.streamlit.ioCloud deployment
+Python - Programming language
+Streamlit - Web framework & UI
+Pandas - Data handling & calculations
+GitHub - Version control & code hosting
+Streamlit Community Cloud - Cloud deployment platform
